@@ -1,0 +1,19 @@
+{
+  "name": "pda-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cypress run",
+    "start": "cypress open"
+  },
+  "author": "AnhTan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.3",
+    "cypress": "^9.7.0"
+  }
+}

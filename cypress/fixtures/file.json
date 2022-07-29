@@ -1,0 +1,38 @@
+{
+    "img": {
+        "png": "cypress/fixtures/img/Screenshot from 2022-06-27 14-58-27.png",
+        "jpg": "cypress/fixtures/img/pexels-eberhard-grossgasteiger-844297.jpg",
+        "gif": "cypress/fixtures/img/5eeea355389655.59822ff824b72.gif",
+        "jpeg": "cypress/fixtures/img/Groovy-Gorilla_WP_4096x2304_NoPi.jpeg",
+        "tif": "cypress/fixtures/img/Groovy-Gorilla_WP_4096x2304_NoPi.tif",
+        "tiff": "cypress/fixtures/img/Groovy-Gorilla_WP_4096x2304_NoPi.tiff",
+        "webp": "cypress/fixtures/img/bmp_13.webp",
+        "ico": "cypress/fixtures/img/Groovy-Gorilla_WP_4096x2304_NoPi.ico"
+    },
+
+    "text": {
+        "docx": "cypress/fixtures/text/Brothers.docx",
+        "doc": "cypress/fixtures/text/Untitled-1 (1).doc",
+        "docm": "cypress/fixtures/text/Untitled 1.docm",
+        "txt": "cypress/fixtures/text/demo.txt",
+        "odt": "cypress/fixtures/text/骨格.odt",
+        "oxps": "cypress/fixtures/text/骨格.oxps",
+        "xps": "cypress/fixtures/text/骨格.xps",
+        "pdf": "cypress/fixtures/text/Demo_Test.pdf"
+    },
+
+    "video": {
+        "mp4": "cypress/fixtures/video/Screencast from 06-21-2022 04 27 02 PM.mp4",
+        "webm": "cypress/fixtures/video/Screencast from 06-21-2022 04:27:02 PM.webm",
+        "m4v": "cypress/fixtures/video/Screencast from 06-21-2022 04 27 02 PM.m4v",
+        "ogv": "cypress/fixtures/video/Screencast-from-06-21-2022-04-27-02-PM.ogv",
+        "mkv": "cypress/fixtures/video/Screencast-from-06-22-2022-09_01_37-AM.mkv",
+        "mov": "cypress/fixtures/video/Screencast-from-06-22-2022-09_01_37-AM.mov"
+    },
+
+    "audio": {
+        "mp3": "cypress/fixtures/audio/sample2.mp3"
+    }
+
+    
+}

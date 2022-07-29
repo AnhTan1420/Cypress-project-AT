@@ -1,0 +1,21 @@
+{
+    "pages": {
+    "allPosts": "/edit.php",
+    "newPosts": "/post-new.php",
+    "allPages": "/edit.php?post_type=page",
+    "newPages": "/post-new.php?post_type=page",
+    "media": "/upload.php",
+    "mediaListView": "/upload.php?mode=list",
+    "mediaGridView": "/upload.php?mode=grid",
+    "category": "/edit-tags.php?taxonomy=category",
+    "createAcc": "/users.php",
+    "uploadPlugin": "/plugin-install.php",
+    "uploadMediaList": "/media-new.php",
+    "plugin": "/plugins.php"
+    },
+    "plugin": {
+        "pdaGold": "/admin.php?page=pda-gold",
+        "ipRestrict": "/admin.php?page=pda-gold&tab=ip_block"
+    }
+
+}

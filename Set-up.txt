@@ -1,0 +1,16 @@
+Set Up:
+ - yarn install 
+ - yanr start
+
+Change BaseURL, User & Pass:
+ - click cypress.json
+ - Clear old url and change new url
+ - Clear User & Pass and change
+
+Create Account: 
+ - yarn start
+ - click create-account.js
+
+Install or Replace plugin:
+ - yarn start 
+ - click install-plugin.js

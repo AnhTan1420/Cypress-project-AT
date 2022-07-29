@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://hongd.sg-host.com/qa1/wp-admin/",
+    "env": {
+        "user": "intern1",
+        "pass": "intern1"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "admin2": {
+        "user": "admin2"
+    },
+    "author": {
+        "user": "author"
+    },
+    "author2": {
+        "user": "author2"
+    },
+    "editor": {
+        "user": "editor"
+    },
+    "editor2": {
+        "user": "editor2"
+    },
+    "pass": "123456"
+}
